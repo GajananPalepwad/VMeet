@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892138339736",
+    "project_id": "vmeet-f07be",
+    "storage_bucket": "vmeet-f07be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892138339736:android:59b198a30f08e5c5577fed",
+        "android_client_info": {
+          "package_name": "com.gn4k.vmeet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd8L86hlp7JHJcquW5nkr3OT9bqagxFGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
